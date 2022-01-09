@@ -4,7 +4,7 @@ hachoir
 Pillow
 pyrogram
 tgcrypto
-yt_dlp==2021.11.13
+yt-dlp==2021.1.15
 hurry.filesize
 python-dotenv
 psutil
