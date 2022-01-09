@@ -4,7 +4,6 @@ hachoir
 Pillow
 pyrogram
 tgcrypto
-yt-dlp==2021.12.27
 hurry.filesize
 python-dotenv
 psutil
@@ -18,4 +17,4 @@ messages
 js2py
 cfscrape
 lk21
-youtube-dlc
+yt-dlp-2021.03.07
