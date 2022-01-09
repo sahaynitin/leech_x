@@ -18,4 +18,4 @@ messages
 js2py
 cfscrape
 lk21
-yt_dlc
+yt-dlc
